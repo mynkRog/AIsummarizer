@@ -1,8 +1,15 @@
-# React + Vite
+# 📝AI SaaS Article Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the AI SaaS Article Summarizer! This application utilizes OpenAI's GPT model to summarize articles quickly and efficiently. Simply paste the link of the website you want to summarize, and let the AI do the work for you.
 
-Currently, two official plugins are available:
+### 📡 Live @: https://demoaisummarizer.netlify.app/ 🔗
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🛠️ Features
+
+- **Summarization**: Capable of summarizing thousands of lines of text into concise, readable summaries.
+- **Easy to Use**: Just copy and paste the link of the article you want summarized.
+- **Previous Links**: Keeps track of the links you've entered for easy reference.
+- **React-based UI**: Built using React for a responsive and intuitive user interface.
+- **Tailwind CSS**: Designed with the help of Tailwind CSS for sleek and modern aesthetics.
+- **RapidAPI Summarizer API**: Utilizes RapidAPI Summarizer API for efficient text summarization.
+- **Hosted on Netlify**: Accessible online through Netlify hosting for seamless deployment and accessibility.
